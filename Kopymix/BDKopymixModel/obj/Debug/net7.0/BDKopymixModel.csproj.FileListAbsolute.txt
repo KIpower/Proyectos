@@ -1,0 +1,56 @@
+C:\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.deps.json
+C:\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.runtimeconfig.json
+C:\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.AssemblyReference.cache
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfoInputs.cache
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfo.cs
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.CoreCompileInputs.cache
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.dll
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\refint\BDKopymixModel.dll
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.pdb
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.genruntimeconfig.cache
+C:\Kopymix\BDKopymixModel\obj\Debug\net7.0\ref\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.runtimeconfig.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\refint\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.genruntimeconfig.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\BDKopymixModel\obj\Debug\net7.0\ref\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.runtimeconfig.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\refint\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.genruntimeconfig.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\BDKopymixModel\obj\Debug\net7.0\ref\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.runtimeconfig.json
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\refint\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\BDKopymixModel.genruntimeconfig.cache
+C:\Users\alism\Downloads\BACK\Kopymix\BDKopymixModel\obj\Debug\net7.0\ref\BDKopymixModel.dll

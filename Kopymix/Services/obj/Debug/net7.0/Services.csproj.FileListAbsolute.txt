@@ -1,0 +1,87 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\bin\Debug\net7.0\Services.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\Services.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Services\obj\Debug\net7.0\ref\Services.dll
+E:\trash\BodeguitaYanin\Services\bin\Debug\net7.0\Services.deps.json
+E:\trash\BodeguitaYanin\Services\bin\Debug\net7.0\Services.dll
+E:\trash\BodeguitaYanin\Services\bin\Debug\net7.0\Services.pdb
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\Services.dll
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\refint\Services.dll
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\Services.pdb
+E:\trash\BodeguitaYanin\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Kopymix\Services\bin\Debug\net7.0\Services.deps.json
+C:\Kopymix\Services\bin\Debug\net7.0\Services.dll
+C:\Kopymix\Services\bin\Debug\net7.0\Services.pdb
+C:\Kopymix\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Kopymix\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Kopymix\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Kopymix\Services\obj\Debug\net7.0\Services.dll
+C:\Kopymix\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Kopymix\Services\obj\Debug\net7.0\Services.pdb
+C:\Kopymix\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\bin\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\bin\Debug\net7.0\IServices.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\bin\Debug\net7.0\IServices.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\bin\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\bin\Debug\net7.0\IServices.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\bin\Debug\net7.0\IServices.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\Services\bin\Debug\net7.0\Services.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Services\bin\Debug\net7.0\IServices.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Services\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Services\bin\Debug\net7.0\IServices.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Services\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Services\obj\Debug\net7.0\ref\Services.dll

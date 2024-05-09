@@ -1,0 +1,72 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\refint\RequestResponseModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\ref\RequestResponseModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.deps.json
+E:\trash\BodeguitaYanin\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.dll
+E:\trash\BodeguitaYanin\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.pdb
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.dll
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\refint\RequestResponseModel.dll
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.pdb
+E:\trash\BodeguitaYanin\RequestResponseModel\obj\Debug\net7.0\ref\RequestResponseModel.dll
+C:\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.deps.json
+C:\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.AssemblyReference.cache
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfoInputs.cache
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfo.cs
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.dll
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\refint\RequestResponseModel.dll
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.pdb
+C:\Kopymix\RequestResponseModel\obj\Debug\net7.0\ref\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\refint\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\RequestResponseModel\obj\Debug\net7.0\ref\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\refint\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\RequestResponseModel\obj\Debug\net7.0\ref\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\refint\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\RequestResponseModel\obj\Debug\net7.0\ref\RequestResponseModel.dll

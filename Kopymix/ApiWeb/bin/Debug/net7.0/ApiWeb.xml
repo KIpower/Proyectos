@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiWeb</name>
+    </assembly>
+    <members>
+        <member name="M:ApiWeb.Midleware.HelperHttpContext.getTokenClaims(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Retorna todas variables que se le asignaron a los claims al momento de generar el token
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

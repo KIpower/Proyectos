@@ -1,0 +1,80 @@
+<!-- <h1>LOGIN</h1>
+
+<div class="card text-dark bg-light mb-3" style="max-width: 18rem;">
+  <div class="card-header">INICIAR SESION</div>
+  <div class="card-body">
+    <div class="form-group">
+    <label for="">USUARIO : </label> 
+    <input class="form-control" type="text" [(ngModel)]="usuario">
+    </div>
+    <div class="form-group">
+      <label for="">PASSWORD : </label> 
+      <input class="form-control" type="text" [(ngModel)]="password">
+      </div>
+      <div class="form-group">
+        <button class="btn btn-sm btn-primary mt-4" (click)="iniciarSesion()">
+          INICIAR SESIÓN
+        </button>
+        </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<br><br>
+
+
+<h1>Proyecto: Kopy</h1>
+<br>
+<label for="">Nombre proyecto AN</label>
+{{title}}
+
+<br><br><br><br>
+<ul *ngFor="let rol of roles">
+  <li> ID: {{rol.id}} |  Name: {{rol.name}}</li>
+</ul>
+
+<br>
+
+<h1>Existe el double blinding</h1>
+
+<br>
+<h1>Nombre de usuario</h1>
+<input type="text" [(ngModel)]="nombreUsuario"> <br>
+<label for="">{{nombreUsuario}}</label>
+
+<br><br>
+
+<label for="">ID </label><input type="text" [(ngModel)]="rolRequest.id"><br><br>
+<label for="">Descripcion </label><input type="text" [(ngModel)]="rolRequest.descripcion"><br><br>
+<label for="">Funcion </label><input type="text" [(ngModel)]="rolRequest.funcion"><br><br>
+
+<br><br><br><br>
+<table class="table table-bordered table-striped">
+  <thead>
+    <tr>
+    <th> ID </th>
+    <th> Descripción </th>
+    <th> Función </th>
+    <th> 
+      <button (click)="crearRoles()">Agregar</button>
+    </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let rol of roles">
+    <td> {{rol.id}} </td>
+    <td> {{rol.descripcion}} </td>
+    <td> {{rol.funcion}} </td>
+    <td> 
+      <button (click)="rellenarValores(rol)"> Seleccionar </button>
+      <button (click)="eliminarRegistro(rol.id)"> Eliminar </button>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+ -->
+
+<router-outlet></router-outlet>

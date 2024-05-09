@@ -1,0 +1,1240 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj",
+        "projectName": "BDKopymixModel",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Bussnies\\Bussnies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Bussnies\\Bussnies.csproj",
+        "projectName": "Bussnies",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Bussnies\\Bussnies.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Bussnies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\IBussnies.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\IBussnies.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\IRepository.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\IRepository.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\IServices.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\IServices.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Repository\\Repository.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Services\\Services.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilAutomapper\\UtilAutomapper.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilAutomapper\\UtilAutomapper.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\UtilConstants.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\UtilConstants.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilExcel\\UtilExcel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilExcel\\UtilExcel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilPdf\\UtilPdf.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilPdf\\UtilPdf.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilSecurity\\UtilSecurity.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilSecurity\\UtilSecurity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj",
+        "projectName": "CommonModel",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\IBussnies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\IBussnies.csproj",
+        "projectName": "IBussnies",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\IBussnies.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\IRepository.csproj",
+        "projectName": "IRepository",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\IRepository.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\IServices.csproj",
+        "projectName": "IServices",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\IServices.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\IRepository.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IRepository\\IRepository.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\UtilConstants.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\UtilConstants.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj",
+        "projectName": "RequestResponseModel",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\IServices.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IServices\\IServices.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilAutomapper\\UtilAutomapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilAutomapper\\UtilAutomapper.csproj",
+        "projectName": "UtilAutomapper",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilAutomapper\\UtilAutomapper.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilAutomapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\BDKopymixModel\\BDKopymixModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\UtilConstants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\UtilConstants.csproj",
+        "projectName": "UtilConstants",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\UtilConstants.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilConstants\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilExcel\\UtilExcel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilExcel\\UtilExcel.csproj",
+        "projectName": "UtilExcel",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilExcel\\UtilExcel.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilExcel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilPdf\\UtilPdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilPdf\\UtilPdf.csproj",
+        "projectName": "UtilPdf",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilPdf\\UtilPdf.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilPdf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilSecurity\\UtilSecurity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilSecurity\\UtilSecurity.csproj",
+        "projectName": "UtilSecurity",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilSecurity\\UtilSecurity.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\UtilSecurity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\alism\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Bussnies\\Bussnies.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\Bussnies\\Bussnies.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\CommonModel\\CommonModel.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\IBussnies.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\IBussnies\\IBussnies.csproj"
+              },
+              "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj": {
+                "projectPath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

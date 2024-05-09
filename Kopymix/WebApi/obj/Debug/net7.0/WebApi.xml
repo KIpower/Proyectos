@@ -1,0 +1,1042 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Midleware.HelperHttpContext.getTokenClaims(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Retorna todas variables que se le asignaron a los claims al momento de generar el token
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.CategoriaController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.CategoriaController._CategoriaBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Categoria
+            </summary>
+            <returns>List-CategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>CategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.Create(RequestResponseModel.CategoriaRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Categoria
+            </summary>
+            <param name="request">CategoriaRequest</param>
+            <returns>CategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA Categoria EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.CategoriaRequest})">
+            <summary>
+            RETORNA LA TABLA Categoria EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.Update(RequestResponseModel.CategoriaRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Categoria
+            </summary>
+            <param name="request">CategoriaRequest</param>
+            <returns>CategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.CategoriaController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.ClienteController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.ClienteController._ClienteBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Cliente
+            </summary>
+            <returns>List-ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Create(RequestResponseModel.ClienteRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Cliente
+            </summary>
+            <param name="request">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA Cliente EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.ClienteRequest})">
+            <summary>
+            RETORNA LA TABLA Cliente EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Update(RequestResponseModel.ClienteRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Cliente
+            </summary>
+            <param name="request">ClienteRequest</param>
+            <returns>ClienteResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.ClienteDireccioneController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.ClienteDireccioneController._ClienteDireccioneBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA ClienteDireccione
+            </summary>
+            <returns>List-ClienteDireccioneResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ClienteDireccioneResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.Create(RequestResponseModel.ClienteDireccioneRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA ClienteDireccione
+            </summary>
+            <param name="request">ClienteDireccioneRequest</param>
+            <returns>ClienteDireccioneResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA ClienteDireccione EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.ClienteDireccioneRequest})">
+            <summary>
+            RETORNA LA TABLA ClienteDireccione EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.Update(RequestResponseModel.ClienteDireccioneRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA ClienteDireccione
+            </summary>
+            <param name="request">ClienteDireccioneRequest</param>
+            <returns>ClienteDireccioneResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ClienteDireccioneController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.ComprobantePagoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.ComprobantePagoController._ComprobantePagoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA ComprobantePago
+            </summary>
+            <returns>List-ComprobantePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ComprobantePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.Create(RequestResponseModel.ComprobantePagoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA ComprobantePago
+            </summary>
+            <param name="request">ComprobantePagoRequest</param>
+            <returns>ComprobantePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA ComprobantePago EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.ComprobantePagoRequest})">
+            <summary>
+            RETORNA LA TABLA ComprobantePago EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.Update(RequestResponseModel.ComprobantePagoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA ComprobantePago
+            </summary>
+            <param name="request">ComprobantePagoRequest</param>
+            <returns>ComprobantePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ComprobantePagoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.EmpresaController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.EmpresaController._EmpresaBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Empresa
+            </summary>
+            <returns>List-EmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>EmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.Create(RequestResponseModel.EmpresaRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Empresa
+            </summary>
+            <param name="request">EmpresaRequest</param>
+            <returns>EmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA Empresa EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.EmpresaRequest})">
+            <summary>
+            RETORNA LA TABLA Empresa EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.Update(RequestResponseModel.EmpresaRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Empresa
+            </summary>
+            <param name="request">EmpresaRequest</param>
+            <returns>EmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EmpresaController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.EstadoPedidoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.EstadoPedidoController._EstadoPedidoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA EstadoPedido
+            </summary>
+            <returns>List-EstadoPedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>EstadoPedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.Create(RequestResponseModel.EstadoPedidoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA EstadoPedido
+            </summary>
+            <param name="request">EstadoPedidoRequest</param>
+            <returns>EstadoPedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA EstadoPedido EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.EstadoPedidoRequest})">
+            <summary>
+            RETORNA LA TABLA EstadoPedido EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.Update(RequestResponseModel.EstadoPedidoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA EstadoPedido
+            </summary>
+            <param name="request">EstadoPedidoRequest</param>
+            <returns>EstadoPedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.EstadoPedidoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.IngresoSalidaProductoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.IngresoSalidaProductoController._IngresoSalidaProductoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA IngresoSalidaProducto
+            </summary>
+            <returns>List-IngresoSalidaProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>IngresoSalidaProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.Create(RequestResponseModel.IngresoSalidaProductoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA IngresoSalidaProducto
+            </summary>
+            <param name="request">IngresoSalidaProductoRequest</param>
+            <returns>IngresoSalidaProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA IngresoSalidaProducto EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.IngresoSalidaProductoRequest})">
+            <summary>
+            RETORNA LA TABLA IngresoSalidaProducto EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.Update(RequestResponseModel.IngresoSalidaProductoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA IngresoSalidaProducto
+            </summary>
+            <param name="request">IngresoSalidaProductoRequest</param>
+            <returns>IngresoSalidaProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.IngresoSalidaProductoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.MedioPagoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.MedioPagoController._MedioPagoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA MedioPago
+            </summary>
+            <returns>List-MedioPagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>MedioPagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.Create(RequestResponseModel.MedioPagoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA MedioPago
+            </summary>
+            <param name="request">MedioPagoRequest</param>
+            <returns>MedioPagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA MedioPago EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.MedioPagoRequest})">
+            <summary>
+            RETORNA LA TABLA MedioPago EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.Update(RequestResponseModel.MedioPagoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA MedioPago
+            </summary>
+            <param name="request">MedioPagoRequest</param>
+            <returns>MedioPagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.MedioPagoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.PedidoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.PedidoController._PedidoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Pedido
+            </summary>
+            <returns>List-PedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>PedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.Create(RequestResponseModel.PedidoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Pedido
+            </summary>
+            <param name="request">PedidoRequest</param>
+            <returns>PedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA Pedido EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.PedidoRequest})">
+            <summary>
+            RETORNA LA TABLA Pedido EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.Update(RequestResponseModel.PedidoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Pedido
+            </summary>
+            <param name="request">PedidoRequest</param>
+            <returns>PedidoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.PedidoDetalleController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.PedidoDetalleController._PedidoDetalleBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA PedidoDetalle
+            </summary>
+            <returns>List-PedidoDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>PedidoDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.Create(RequestResponseModel.PedidoDetalleRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA PedidoDetalle
+            </summary>
+            <param name="request">PedidoDetalleRequest</param>
+            <returns>PedidoDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA PedidoDetalle EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.PedidoDetalleRequest})">
+            <summary>
+            RETORNA LA TABLA PedidoDetalle EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.Update(RequestResponseModel.PedidoDetalleRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA PedidoDetalle
+            </summary>
+            <param name="request">PedidoDetalleRequest</param>
+            <returns>PedidoDetalleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetalleController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.PedidoDetallePagoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.PedidoDetallePagoController._PedidoDetallePagoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA PedidoDetallePago
+            </summary>
+            <returns>List-PedidoDetallePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>PedidoDetallePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.Create(RequestResponseModel.PedidoDetallePagoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA PedidoDetallePago
+            </summary>
+            <param name="request">PedidoDetallePagoRequest</param>
+            <returns>PedidoDetallePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA PedidoDetallePago EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.PedidoDetallePagoRequest})">
+            <summary>
+            RETORNA LA TABLA PedidoDetallePago EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.Update(RequestResponseModel.PedidoDetallePagoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA PedidoDetallePago
+            </summary>
+            <param name="request">PedidoDetallePagoRequest</param>
+            <returns>PedidoDetallePagoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PedidoDetallePagoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.PersonaController">
+            <summary>
+            controller para la tabla/vista persona
+            </summary>
+        </member>
+        <member name="M:ApiWeb.Controllers.PersonaController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            coonstructor
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.PersonaController.GetWithUbigeo">
+            <summary>
+            obtiene la lista de personas con ubigeo
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PersonaController.GetWithDni(System.String,System.String)">
+            <summary>
+            retorna los datos de una persona en base al DNI
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PersonaController.Create(RequestResponseModel.PersonaRequest)">
+            <summary>
+            obtiene la lista de personas con ubigeo
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.PersonaController.Actualizar(RequestResponseModel.PersonaRequest)">
+            <summary>
+            obtiene la lista de personas con ubigeo
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.ProductoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.ProductoController._ProductoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Producto
+            </summary>
+            <returns>List-ProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.Create(RequestResponseModel.ProductoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Producto
+            </summary>
+            <param name="request">ProductoRequest</param>
+            <returns>ProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA Producto EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.ProductoRequest})">
+            <summary>
+            RETORNA LA TABLA Producto EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.Update(RequestResponseModel.ProductoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Producto
+            </summary>
+            <param name="request">ProductoRequest</param>
+            <returns>ProductoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.ProductoEmpresaController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.ProductoEmpresaController._ProductoEmpresaBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA ProductoEmpresa
+            </summary>
+            <returns>List-ProductoEmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ProductoEmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.Create(RequestResponseModel.ProductoEmpresaRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA ProductoEmpresa
+            </summary>
+            <param name="request">ProductoEmpresaRequest</param>
+            <returns>ProductoEmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA ProductoEmpresa EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.ProductoEmpresaRequest})">
+            <summary>
+            RETORNA LA TABLA ProductoEmpresa EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.Update(RequestResponseModel.ProductoEmpresaRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA ProductoEmpresa
+            </summary>
+            <param name="request">ProductoEmpresaRequest</param>
+            <returns>ProductoEmpresaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.ProductoEmpresaController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.RoleController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.RoleController._RoleBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Role
+            </summary>
+            <returns>List-RoleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>RoleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.Create(RequestResponseModel.RoleRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Role
+            </summary>
+            <param name="request">RoleRequest</param>
+            <returns>RoleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA Role EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.RoleRequest})">
+            <summary>
+            RETORNA LA TABLA Role EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.Update(RequestResponseModel.RoleRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Role
+            </summary>
+            <param name="request">RoleRequest</param>
+            <returns>RoleResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.RoleController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.SubCategoriaController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.SubCategoriaController._SubCategoriaBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA SubCategoria
+            </summary>
+            <returns>List-SubCategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>SubCategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.Create(RequestResponseModel.SubCategoriaRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA SubCategoria
+            </summary>
+            <param name="request">SubCategoriaRequest</param>
+            <returns>SubCategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA SubCategoria EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.SubCategoriaRequest})">
+            <summary>
+            RETORNA LA TABLA SubCategoria EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.Update(RequestResponseModel.SubCategoriaRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA SubCategoria
+            </summary>
+            <param name="request">SubCategoriaRequest</param>
+            <returns>SubCategoriaResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.SubCategoriaController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.TipoDocumentoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:ApiWeb.Controllers.TipoDocumentoController._TipoDocumentoBussnies">
+            INYECCIÓN DE DEPENDECIAS/
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA TipoDocumento
+            </summary>
+            <returns>List-TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.Create(RequestResponseModel.TipoDocumentoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA TipoDocumento
+            </summary>
+            <param name="request">TipoDocumentoRequest</param>
+            <returns>TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.GetByFilter(RequestResponseModel.GenericFilterRequest)">
+            <summary>
+            RETORNA LA TABLA TipoDocumento EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.CreateMultiple(System.Collections.Generic.List{RequestResponseModel.TipoDocumentoRequest})">
+            <summary>
+            RETORNA LA TABLA TipoDocumento EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.Update(RequestResponseModel.TipoDocumentoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA TipoDocumento
+            </summary>
+            <param name="request">TipoDocumentoRequest</param>
+            <returns>TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:ApiWeb.Controllers.TipoDocumentoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+    </members>
+</doc>

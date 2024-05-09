@@ -1,0 +1,50 @@
+<div class="container">
+    <form [formGroup]="form">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>ID</th>
+                    <th>Descripcion</th>
+                    <th>
+                        <button (click)="addTd()" class="btn btn-primary btn-sm">
+                            <i class="fas fa-plus"></i>
+                        </button>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <ng-container formArrayName="tds">
+                    <ng-container *ngFor="let td of tdsArrayForm.controls let i = index">
+                        <tr [formGroupName]="i">
+                            <td>{{ i + 1 }}</td>
+                            <td>
+                                <input formControlName="id" class="form-control" type="text">
+                            </td>
+                            <td>
+                                <input formControlName="descripcion" class="form-control" type="text">
+                            </td>
+                            <td>
+                                <button (click)="removeTd(i)" class="btn btn-danger btn-sm">
+                                    <i class="fas fa-trash"></i>
+                                </button>
+                            </td>
+                        </tr>
+                    </ng-container>
+
+                </ng-container>
+
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="6">
+                        <button [disabled]="form.invalid" (click)="save()" class="btn btn-primary btn-sm "> Guardar
+                            <i class="fas fa-save"></i>
+                        </button>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+</div>

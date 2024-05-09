@@ -1,0 +1,620 @@
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\appsettings.json
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\WebApi.exe
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\WebApi.deps.json
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\WebApi.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\WebApi.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\AutoMapper.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.IO.Packaging.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\BDBodegaYaninModel.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Bussnies.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\CommonModel.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\IBussnies.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\IRepository.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\IServices.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Repository.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\RequestResponseModel.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Services.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilAutomapper.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilConstants.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilExcel.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilPdf.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilSecurity.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Bussnies.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\CommonModel.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\IBussnies.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\RequestResponseModel.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\BDBodegaYaninModel.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\IRepository.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\IServices.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Repository.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\Services.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilAutomapper.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilConstants.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilExcel.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilPdf.pdb
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\UtilSecurity.pdb
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.dll
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.pdb
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+E:\trash\BodeguitaYanin\WebApi\bin\Debug\net7.0\WebApi.xml
+E:\trash\BodeguitaYanin\WebApi\obj\Debug\net7.0\WebApi.xml
+C:\Kopymix\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Kopymix\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Kopymix\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Kopymix\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Kopymix\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Kopymix\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\WebApi.xml
+C:\Kopymix\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Json.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\IRepository.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\IServices.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Repository.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Services.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.dll
+C:\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\IRepository.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\IServices.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\Repository.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\Services.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.pdb
+C:\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Kopymix\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Kopymix\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.xml
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Kopymix\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Kopymix\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\WebApi.xml
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\IServices.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Repository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\IServices.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Repository.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.xml
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\WebApi.xml
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\IServices.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Repository.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\IServices.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Repository.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.xml
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\WebApi\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\WebApi.xml
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\IRepository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\IServices.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Repository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Services.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\CommonModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\IRepository.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\IServices.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Repository.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\Services.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.csproj.Up2Date
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.xml
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\alism\Downloads\BACK\Kopymix\WebApi\obj\Debug\net7.0\ref\WebApi.dll

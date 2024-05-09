@@ -1,0 +1,72 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\bin\Debug\net7.0\UtilPdf.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\refint\UtilPdf.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\ref\UtilPdf.dll
+E:\trash\BodeguitaYanin\UtilPdf\bin\Debug\net7.0\UtilPdf.deps.json
+E:\trash\BodeguitaYanin\UtilPdf\bin\Debug\net7.0\UtilPdf.dll
+E:\trash\BodeguitaYanin\UtilPdf\bin\Debug\net7.0\UtilPdf.pdb
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.dll
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\refint\UtilPdf.dll
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\UtilPdf.pdb
+E:\trash\BodeguitaYanin\UtilPdf\obj\Debug\net7.0\ref\UtilPdf.dll
+C:\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.deps.json
+C:\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.dll
+C:\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.pdb
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.AssemblyReference.cache
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfoInputs.cache
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfo.cs
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.CoreCompileInputs.cache
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.dll
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\refint\UtilPdf.dll
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.pdb
+C:\Kopymix\UtilPdf\obj\Debug\net7.0\ref\UtilPdf.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\refint\UtilPdf.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilPdf\obj\Debug\net7.0\ref\UtilPdf.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\refint\UtilPdf.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilPdf\obj\Debug\net7.0\ref\UtilPdf.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\refint\UtilPdf.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\UtilPdf.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilPdf\obj\Debug\net7.0\ref\UtilPdf.dll

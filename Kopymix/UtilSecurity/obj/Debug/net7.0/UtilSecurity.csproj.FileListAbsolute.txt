@@ -1,0 +1,72 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
+E:\trash\BodeguitaYanin\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+E:\trash\BodeguitaYanin\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+E:\trash\BodeguitaYanin\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+E:\trash\BodeguitaYanin\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
+C:\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Kopymix\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll

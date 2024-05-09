@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCZs36Hd7DsZ3Gszx2DmY7pyDIqgr0khEYMqdV0eL1Z7WmPW79OOjE9uGMmYQgN+nTEwxka18Egd59UYH9AcHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alism\\Downloads\\BACK\\Kopymix\\RequestResponseModel\\RequestResponseModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alism\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,72 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\bin\Debug\net7.0\UtilConstants.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\UtilConstants\bin\Debug\net7.0\UtilConstants.deps.json
+E:\trash\BodeguitaYanin\UtilConstants\bin\Debug\net7.0\UtilConstants.dll
+E:\trash\BodeguitaYanin\UtilConstants\bin\Debug\net7.0\UtilConstants.pdb
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.dll
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
+E:\trash\BodeguitaYanin\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll
+C:\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.deps.json
+C:\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.dll
+C:\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.pdb
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.AssemblyReference.cache
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfoInputs.cache
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfo.cs
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.CoreCompileInputs.cache
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.dll
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
+C:\Kopymix\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\refint\UtilConstants.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\UtilConstants.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilConstants\obj\Debug\net7.0\ref\UtilConstants.dll

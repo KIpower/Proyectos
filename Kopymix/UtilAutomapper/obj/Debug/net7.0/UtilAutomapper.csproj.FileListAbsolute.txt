@@ -1,0 +1,102 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\BDBodegaYaninModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\BDBodegaYaninModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll
+E:\trash\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+E:\trash\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+E:\trash\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+E:\trash\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\BDBodegaYaninModel.dll
+E:\trash\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.dll
+E:\trash\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\BDBodegaYaninModel.pdb
+E:\trash\BodeguitaYanin\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.pdb
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+E:\trash\BodeguitaYanin\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll
+C:\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+C:\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+C:\Kopymix\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CopyComplete
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAuto.64331576.Up2Date
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\refint\UtilAutomapper.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilAutomapper\obj\Debug\net7.0\ref\UtilAutomapper.dll

@@ -1,0 +1,72 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\bin\Debug\net7.0\UtilExcel.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll
+E:\trash\BodeguitaYanin\UtilExcel\bin\Debug\net7.0\UtilExcel.deps.json
+E:\trash\BodeguitaYanin\UtilExcel\bin\Debug\net7.0\UtilExcel.dll
+E:\trash\BodeguitaYanin\UtilExcel\bin\Debug\net7.0\UtilExcel.pdb
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.dll
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
+E:\trash\BodeguitaYanin\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll
+C:\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.deps.json
+C:\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.dll
+C:\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.pdb
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.AssemblyReference.cache
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfoInputs.cache
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfo.cs
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.CoreCompileInputs.cache
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.dll
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
+C:\Kopymix\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\refint\UtilExcel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\UtilExcel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\UtilExcel\obj\Debug\net7.0\ref\UtilExcel.dll

@@ -1,0 +1,234 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Bussnies.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Bussnies.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\BDBodegaYaninModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\CommonModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IBussnies.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IRepository.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IServices.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Repository.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Services.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\BDBodegaYaninModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\CommonModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IRepository.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IServices.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Repository.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Services.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\refint\Bussnies.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\Bussnies\obj\Debug\net7.0\ref\Bussnies.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Bussnies.deps.json
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Bussnies.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Bussnies.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\BDBodegaYaninModel.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\CommonModel.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IBussnies.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IRepository.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IServices.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Repository.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\RequestResponseModel.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Services.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilAutomapper.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilConstants.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilExcel.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilPdf.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilSecurity.dll
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\BDBodegaYaninModel.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\CommonModel.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IBussnies.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IRepository.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\IServices.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Repository.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\RequestResponseModel.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\Services.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilAutomapper.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilConstants.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilExcel.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilPdf.pdb
+E:\trash\BodeguitaYanin\Bussnies\bin\Debug\net7.0\UtilSecurity.pdb
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.dll
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\refint\Bussnies.dll
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\Bussnies.pdb
+E:\trash\BodeguitaYanin\Bussnies\obj\Debug\net7.0\ref\Bussnies.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.deps.json
+C:\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\IServices.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\Repository.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\Services.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.dll
+C:\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\IServices.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\Repository.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\Services.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.pdb
+C:\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.dll
+C:\Kopymix\Bussnies\obj\Debug\net7.0\refint\Bussnies.dll
+C:\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.pdb
+C:\Kopymix\Bussnies\obj\Debug\net7.0\ref\Bussnies.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\IServices.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\Repository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\IServices.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\Repository.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\refint\Bussnies.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\Bussnies\obj\Debug\net7.0\ref\Bussnies.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\IServices.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\Repository.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\Services.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\IServices.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\Repository.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\Services.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CopyComplete
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\refint\Bussnies.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\Bussnies\obj\Debug\net7.0\ref\Bussnies.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\Bussnies.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\IServices.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\Repository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\Services.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\CommonModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\IBussnies.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\IRepository.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\IServices.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\Repository.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\Services.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilAutomapper.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilConstants.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilExcel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.csproj.Up2Date
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\refint\Bussnies.dll
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\Bussnies.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\Bussnies\obj\Debug\net7.0\ref\Bussnies.dll

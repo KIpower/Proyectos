@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cYGDzdCdY+li1wXIvZhBfOZjZ1a9PGGykDR6cORHFTQ=",
+  "Source": "ApiWebPage",
+  "BasePath": "_content/ApiWebPage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

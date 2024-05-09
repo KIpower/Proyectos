@@ -1,0 +1,64 @@
+<div class="modal-header">
+    <h4 class="modal-title pull-left">{{title}}</h4>
+    <!-- (click)="modalRef?.hide()" -->
+    <button type="button" class="close pull-right" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <form [formGroup]="myForm">
+        <div class="row">
+            <div class="col-2 mt-3">
+                <div class="form-group">
+                    <label for="">ID</label>
+                    <input formControlName="id" type="text" class="form-control" placeholder="">
+                </div>
+            </div>
+            <div class="col-4 mt-3">
+                <div class="form-group">
+                    <label for="">RUC</label>
+                    <input formControlName="ruc" type="text" class="form-control" placeholder="">
+                </div>
+                <!-- <div *ngIf="myForm.get('descripcion')?.errors && myForm.touched">
+                    <small class="text-danger" *ngIf="myForm.get('descripcion')?.hasError('required')" >Campo requerido</small>
+                    <small class="text-danger" *ngIf="myForm.get('descripcion')?.hasError('email')" >No cumple con el formato de correo</small>
+                </div> -->
+                <!-- myForm.get('aquí se pone el formControlName') y si se realiza la validación de email, aumentar o verificar en el ts -->
+            </div>
+            <div class="col-6 mt-3">
+                <div class="form-group">
+                    <label for="">Razón social</label>
+                    <input formControlName="razonSocial" type="text" class="form-control" placeholder="">
+                </div>
+            </div>
+            <div class="col-4 mt-3">
+                <div class="form-group">
+                    <label for="">Telefono</label>
+                    <input formControlName="telefono" type="text" class="form-control" placeholder="">
+                </div>
+            </div>
+            <div class="col-4 mt-3">
+                <div class="form-group">
+                    <label for="">Contacto</label>
+                    <input formControlName="contacto" type="text" class="form-control" placeholder="">
+                </div>
+            </div>
+            <div class="col-12 mt-3">
+                <div class="form-group">
+                    <label for="">Correo</label>
+                    <input formControlName="email" type="text" class="form-control" placeholder="">
+                </div>
+            </div>
+            <div class="col-6 mt-3"> 
+                <div class="d-grid gap-2">
+                    <button [disabled]="myForm.invalid " (click)="guardar()" class="btn-block btn-primary btn-sm">Guardar</button>
+                </div>
+            </div>
+            <div class="col-6 mt-3"> 
+                <div class="d-grid gap-2">
+                    <button class="btn-block btn-danger btn-sm">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </form>
+  </div>

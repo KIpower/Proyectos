@@ -1,0 +1,96 @@
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\bin\Debug\net7.0\IRepository.deps.json
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\bin\Debug\net7.0\IRepository.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\bin\Debug\net7.0\IRepository.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\bin\Debug\net7.0\BDBodegaYaninModel.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\bin\Debug\net7.0\BDBodegaYaninModel.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.csproj.CopyComplete
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\refint\IRepository.dll
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.pdb
+C:\Users\jeffr\OneDrive\Pictures\Desktop\Carpetas\C#-BdYanin\BodeguitaYanin\IRepository\obj\Debug\net7.0\ref\IRepository.dll
+E:\trash\BodeguitaYanin\IRepository\bin\Debug\net7.0\IRepository.deps.json
+E:\trash\BodeguitaYanin\IRepository\bin\Debug\net7.0\IRepository.dll
+E:\trash\BodeguitaYanin\IRepository\bin\Debug\net7.0\IRepository.pdb
+E:\trash\BodeguitaYanin\IRepository\bin\Debug\net7.0\BDBodegaYaninModel.dll
+E:\trash\BodeguitaYanin\IRepository\bin\Debug\net7.0\BDBodegaYaninModel.pdb
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.csproj.AssemblyReference.cache
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfoInputs.cache
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfo.cs
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.csproj.CoreCompileInputs.cache
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.csproj.CopyComplete
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.dll
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\refint\IRepository.dll
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\IRepository.pdb
+E:\trash\BodeguitaYanin\IRepository\obj\Debug\net7.0\ref\IRepository.dll
+C:\Kopymix\IRepository\bin\Debug\net7.0\IRepository.deps.json
+C:\Kopymix\IRepository\bin\Debug\net7.0\IRepository.dll
+C:\Kopymix\IRepository\bin\Debug\net7.0\IRepository.pdb
+C:\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.AssemblyReference.cache
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfoInputs.cache
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfo.cs
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.CopyComplete
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.dll
+C:\Kopymix\IRepository\obj\Debug\net7.0\refint\IRepository.dll
+C:\Kopymix\IRepository\obj\Debug\net7.0\IRepository.pdb
+C:\Kopymix\IRepository\obj\Debug\net7.0\ref\IRepository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\bin\Debug\net7.0\IRepository.deps.json
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\bin\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\bin\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfo.cs
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.CopyComplete
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\refint\IRepository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\obj\Debug\net7.0\ref\IRepository.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\REVISAR\Kopymix\IRepository\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\bin\Debug\net7.0\IRepository.deps.json
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\bin\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\bin\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfo.cs
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.CopyComplete
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\refint\IRepository.dll
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\IRepository.pdb
+C:\Users\DELL\Desktop\K_O_P_Y\Kopymix (2)\Kopymix\IRepository\obj\Debug\net7.0\ref\IRepository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\bin\Debug\net7.0\IRepository.deps.json
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\bin\Debug\net7.0\IRepository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\bin\Debug\net7.0\IRepository.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\bin\Debug\net7.0\RequestResponseModel.dll
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\bin\Debug\net7.0\BDKopymixModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\bin\Debug\net7.0\RequestResponseModel.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfo.cs
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IReposit.1D40EF52.Up2Date
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IRepository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\refint\IRepository.dll
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\IRepository.pdb
+C:\Users\alism\Downloads\BACK\Kopymix\IRepository\obj\Debug\net7.0\ref\IRepository.dll
